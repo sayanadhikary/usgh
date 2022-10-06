@@ -1,0 +1,50 @@
+.container{
+    min-height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+   max-width: 85vw;
+    margin: auto;
+}
+.mb3 {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    padding: .5rem 20rem;
+}
+.formlabel{
+    font-size: medium;
+    padding-bottom: .2rem;
+}
+.btn{
+    display: flex;
+    float: right; 
+    margin-right: 20rem;
+    margin-top: .5rem;
+    cursor: pointer;
+    padding: .3rem .6rem;      
+}
+.input{
+    font-size:.9rem;
+    padding: .2rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .container{
+        font-size: .5rem;
+    }
+    .mb3 {
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        padding: .5rem 2rem;
+        font-size: .5rem;
+    }
+    .btn{
+        margin-right: 2rem;
+    }
+    .formlabel{
+        font-size: .7rem;
+    }
+  }
+
