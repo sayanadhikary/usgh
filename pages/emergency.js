@@ -2,7 +2,7 @@ import React from 'react'
 
 const emergency = () => {
   return (
-    <div>This is Emergency Page</div>
+    <div>This Emergency Page will available soon</div>
   )
 }
 
