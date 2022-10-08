@@ -11,7 +11,7 @@ const Footer = () => {
           <span className={styles.logo}>
             <Image src='/usghLogo.svg' alt="usgh Logo" width={10} height={20} />
           </span>
-        usgh employee
+        usgh community
         </div>
       </footer>
   )

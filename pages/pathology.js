@@ -2,7 +2,7 @@ import React from 'react'
 
 const pathology = () => {
   return (
-    <div>This is Pathology Page</div>
+    <div>This Page will availabale soon</div>
   )
 }
 
