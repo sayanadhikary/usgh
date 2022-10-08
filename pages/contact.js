@@ -10,7 +10,7 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault()
     const data = { name: name, phone: phone, email: email, concern: concern };
-    fetch('http://usgh.in/api/test/add', {
+    fetch('https://usgh.in/api/test/add', {
       method: 'POST', // or 'PUT'
       headers: {
         'Content-Type': 'application/json',
