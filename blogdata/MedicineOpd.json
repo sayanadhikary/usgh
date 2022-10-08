@@ -2,6 +2,6 @@
     "title" : "Medicine Outdoor",
    "content" : "<h2 style=\"text-align: center;\">Medicine Outdoor<\/h2><table style=\"border-collapse: collapse; width: 100%;\" border=\"1\"><tbody><tr><td style=\"width: 50%;\">Monday (10 a.m to 1 p.m)<\/td><td style=\"width: 50%;\">Dr. Somnath Dasgupta<\/td><\/tr><tr><td style=\"width: 50%;\">Tuesday (10 a.m to 1 p.m)<\/td><td style=\"width: 50%;\">Dr. Avick Middya<\/td><\/tr><tr><td style=\"width: 50%;\">Friday (10 a.m to 1 p.m)<\/td><td style=\"width: 50%;\">Dr. Avick Middya<\/td><\/tr><tr><td style=\"width: 50%;\">Saturday (10 a.m to 1 p.m)<\/td><td style=\"width: 50%;\">Dr. Somnath Dasgupta<\/td><\/tr><\/tbody><\/table>",
      "Author" : "Usgh community",
-   "metadesc": "প্রতি মঙ্গলবার, বুধবার, শুক্রবার, এবং শনিবার",
+   "metadesc": "Every Tuesday, Wednesday, Friday and Saturday",
    "slug" : "MedicineOpd"
 }
