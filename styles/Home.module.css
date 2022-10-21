@@ -176,5 +176,6 @@ padding: .5rem;
   }
   .footer {
     font-size: .7rem;
+    max-width: 90vw;
   }
 }
