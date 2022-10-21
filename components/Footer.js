@@ -11,7 +11,8 @@ const Footer = () => {
           <span className={styles.logo}>
             <Image src='/usghLogo.svg' alt="usgh Logo" width={10} height={20} />
           </span>
-        usgh community || This is an unofficial website, updates may be delayed
+        usgh community <br /> 
+        This is an unofficial website, updates may be delayed
         </div>
       </footer>
   )

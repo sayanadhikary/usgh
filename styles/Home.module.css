@@ -19,6 +19,7 @@
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 
 .footer a {
@@ -174,8 +175,7 @@ padding: .5rem;
     line-height: 1.5;
     font-size: 1rem;
   }
-  .footer {
+  .footer{
     font-size: .7rem;
-    max-width: 90vw;
   }
 }
