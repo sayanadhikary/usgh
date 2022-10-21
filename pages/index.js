@@ -22,7 +22,7 @@ export default function Home() {
         <div className={styles.grid}>
           <div className={styles.card}>
             <h2>Vaccination</h2>
-            <p>Vaccination is going on. Every Monday to Friday : Covishield. Saturday : Covaxin. 1st Floor 11 a.m to 3 p.m. Booster Dose is also available.</p>
+            <p>প্রতি সোমবার COVISHIELD ও শনিবার COVAXIN দেওয়া হচ্ছে । হসপিটাল-এর দ্বিতলে ১১ টা থেকে ৩ টার মধ্যে আসতে হবে</p>
           </div>
 
           <div className={styles.card}>

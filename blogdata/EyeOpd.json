@@ -1,7 +1,7 @@
 {
     "title" : "Eye Outdoor",
-   "content" : "<p style=\"text-align: center;\">আউটডোর-এ দেখানোর জন্য দুপুর ১ টার মধ্যে ২ টাকা দিয়ে টিকিট করতে হবে </p><h2 style=\"text-align: center;\">Eye Outdoor<\/h2><table style=\"border-collapse: collapse; width: 100%; height: 54px;\" border=\"1\"><tbody><tr style=\"height: 18px;\"><td style=\"width: 50%; height: 18px;\">Monday (10 a.m to 1 p.m)<\/td><td style=\"width: 50%; height: 18px;\">Dr. Raunak Das<\/td><\/tr><tr style=\"height: 18px;\"><td style=\"width: 50%; height: 18px;\">Tuesday (10 a.m to 1 p.m)<\/td><td style=\"width: 50%; height: 18px;\">Dr. Samaresh Pandit<\/td><\/tr><tr style=\"height: 18px;\"><td style=\"width: 50%; height: 18px;\">Friday (10 a.m to 1 p.m)<\/td><td style=\"width: 50%; height: 18px;\">Dr. Anup Gsowami<\/td><\/tr><\/tbody><\/table>",
+   "content" : "<p style=\"text-align: center;\">আউটডোর-এ দেখানোর জন্য দুপুর ১ টার মধ্যে ২ টাকা দিয়ে টিকিট করতে হবে </p><h2 style=\"text-align: center;\">Eye Outdoor Time Table<\/h2><table style=\"border-collapse: collapse; width: 100%; height: 54px;\" border=\"1\"><tbody><tr style=\"height: 18px;\"><td style=\"width: 50%; height: 18px;\">Monday (10 a.m to 1 p.m)<\/td><td style=\"width: 50%; height: 18px;\">Dr. Raunak Das<\/td><\/tr><tr style=\"height: 18px;\"><td style=\"width: 50%; height: 18px;\">Tuesday (10 a.m to 1 p.m)<\/td><td style=\"width: 50%; height: 18px;\">Dr. Samaresh Pandit<\/td><\/tr><tr style=\"height: 18px;\"><td style=\"width: 50%; height: 18px;\">Friday (10 a.m to 1 p.m)<\/td><td style=\"width: 50%; height: 18px;\">Dr. Anup Gsowami<\/td><\/tr><\/tbody><\/table>",
     "Author" : "Usgh community",
-   "metadesc": "Every Monday, Tuesday and Friday",
+   "metadesc": "প্রতি সোমবার, মঙ্গলবার, ও শুক্রবার",
    "slug" : "EyeOpd"
 }
