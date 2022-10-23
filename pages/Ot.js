@@ -41,7 +41,7 @@ const Ot = () => {
 		</tr>
 		<tr>
 			<td>Saturday</td>
-			<td>Dr. Prabhas Das</td>
+			<td>Dr. Moumita Maji</td>
 			<td>&nbsp;</td>
 		</tr>
     <tr>
